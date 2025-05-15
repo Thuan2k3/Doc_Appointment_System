@@ -1,4 +1,4 @@
-# Dự án Quản lý lịch đặt bác sĩ
+# Dự án Website đặt lịch hẹn với bác sĩ
 
 ## 🖼️ Giao diện demo
 
